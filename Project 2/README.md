@@ -8,9 +8,8 @@
 - **pandas**
 - **numpy**
 - **matplotlib**
-- **statsmodels**
-- **sklearn**
-- **CatBoost**
+- **seaborn**
+- **scipy (stats)**
 
 ## Общий вывод
 
